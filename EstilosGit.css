@@ -81,9 +81,9 @@ header{
     background: rgb(10,175,237);
     background: linear-gradient(163deg, rgba(10,175,237,1) 0%, rgba(10,26,237,1) 0%, rgba(74,10,237,1) 49%, rgba(10,156,237,1) 98%);
     width: 110%;
-    height:127px;
+    height:156px;
     width: 100%; 
-    font-size:20px;
+    font-size:10px;
 	margin-left: 0 px;
 
   }
@@ -269,6 +269,48 @@ header{
     transform: translate(-50%, -50%);
 }
 
+#PracticaBS1  {
+    position: relative;
+    text-align: center;
+    color: white; 
+    float: left;
+    max-width: 90%;
+    max-height: 90%; 
+    margin-left:0px;
+    margin-right: auto;
+    font-size:40px ;
+}
+
+ #pdfBS1{
+    color: white; 
+    float: right;
+    margin-right: 500px;
+    margin-top: auto;
+}
+
+#PracticaBS1 h1{
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    max-width: 100%;
+    max-height: 100%; 
+    margin-left: auto;
+    margin-right: auto;
+    font-size:50px ;
+}
+
+#PracticaBS1 img{
+    width: 600px;
+    height: 400px;
+}
+
+#PracticaBS1 .practicaTBS1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 #footer {
     position: relative;
     background: rgb(0, 0, 0);
@@ -279,6 +321,102 @@ header{
     font-size:50px ;
  }
 
+ #PracticaBS2 {
+    position: relative;
+    text-align: center;
+    color: white; 
+    float: left;
+    max-width: 90%;
+    max-height: 90%; 
+    margin-left:0px;
+    margin-right: auto;
+    font-size:40px ;
+}
+
+
+
+#PracticaBS2 h1{
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    max-width: 100%;
+    max-height: 100%; 
+    margin-left: auto;
+    margin-right: auto;
+    font-size:50px ;
+}
+
+#PracticaBS2 img{
+    width: 600px;
+    height: 400px;
+}
+
+#PracticaBS2 .practicaTBS2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#PracticaBS2 a {
+    float: right;
+    margin-right: 500px;
+    margin-top: auto;
+}
+
+#PracticaBS3 {
+    position: relative;
+    text-align: center;
+    color: white; 
+    float: left;
+    max-width: 90%;
+    max-height: 90%; 
+    margin-left:0px;
+    margin-right: auto;
+    font-size:40px ;
+}
+
+
+
+#PracticaBS3 h1{
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    max-width: 100%;
+    max-height: 100%; 
+    margin-left: auto;
+    margin-right: auto;
+    font-size:50px ;
+}
+
+#PracticaBS3 img{
+    width: 600px;
+    height: 400px;
+}
+
+#PracticaBS3 .practicaTBS3 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#PracticaBS3 a {
+    float: right;
+    margin-right: 500px;
+    margin-top: auto;
+}
+
+
+#footer {
+    position: relative;
+    background: rgb(0, 0, 0);
+    height:127px;
+    width: 100%; 
+    color: rgb(153, 152, 152);
+    text-align: center;
+    font-size:50px ;
+ }
 
   #footer a {
     float: left;
