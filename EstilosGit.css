@@ -478,3 +478,251 @@ header{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+#Practica5  {
+    position: relative;
+    text-align: center;
+    color: white; 
+    float: left;
+    max-width: 90%;
+    max-height: 90%; 
+    margin-left:0px;
+    margin-right: auto;
+    font-size:40px ;
+}
+
+ #pdf5{
+    color: white; 
+    float: right;
+    margin-right: 500px;
+    margin-top: auto;
+}
+
+#Practica5 h1{
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    max-width: 100%;
+    max-height: 100%; 
+    margin-left: auto;
+    margin-right: auto;
+    font-size:50px ;
+}
+
+#Practica5 img{
+    width: 600px;
+    height: 400px;
+}
+
+#Practica5 .practicaT5 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#Practica6  {
+    position: relative;
+    text-align: center;
+    color: white; 
+    float: left;
+    max-width: 90%;
+    max-height: 90%; 
+    margin-left:0px;
+    margin-right: auto;
+    font-size:40px ;
+}
+
+ #pdf6{
+    color: white; 
+    float: right;
+    margin-right: 500px;
+    margin-top: auto;
+}
+
+#Practica6 h1{
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    max-width: 100%;
+    max-height: 100%; 
+    margin-left: auto;
+    margin-right: auto;
+    font-size:50px ;
+}
+
+#Practica6 img{
+    width: 600px;
+    height: 400px;
+}
+
+#Practica6 .practicaT6 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
+
+#Practica7 {
+        position: relative;
+        text-align: center;
+        color: white; 
+        float: left;
+        max-width: 90%;
+        max-height: 90%; 
+        margin-left:0px;
+        margin-right: auto;
+        font-size:40px ;
+    }
+    
+        
+ #Practica7 h1{
+        position: relative;
+        text-align: center;
+        color: rgb(0, 0, 0);
+        max-width: 100%;
+        max-height: 100%; 
+        margin-left: auto;
+        margin-right: auto;
+        font-size:50px ;
+    }
+    
+#Practica7 img{
+        width: 600px;
+        height: 400px;
+    }
+    
+#Practica7 .practica7 {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    
+ #Practica7 a {
+        float: right;
+        margin-right: 500px;
+        margin-top: auto;
+    }
+
+#Practicaweb  {
+        position: relative;
+        text-align: center;
+        color: white; 
+        float: left;
+        max-width: 90%;
+        max-height: 90%; 
+        margin-left:0px;
+        margin-right: auto;
+        font-size:40px ;
+    }
+    
+#pdfweb{
+        color: white; 
+        float: right;
+        margin-right: 500px;
+        margin-top: auto;
+    }
+    
+#Practicaweb h1{
+        position: relative;
+        text-align: center;
+        color: rgb(0, 0, 0);
+        max-width: 100%;
+        max-height: 100%; 
+        margin-left: auto;
+        margin-right: auto;
+        font-size:50px ;
+    }
+    
+#Practicaweb img{
+        width: 600px;
+        height: 400px;
+    }
+    
+#Practicaweb .practicaTweb {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);}
+
+#Practicaweb  {
+        position: relative;
+        text-align: center;
+        color: white; 
+        float: left;
+        max-width: 90%;
+        max-height: 90%; 
+        margin-left:0px;
+        margin-right: auto;
+        font-size:40px ;
+    }
+    
+#pdfweb{
+        color: white; 
+        float: right;
+        margin-right: 500px;
+        margin-top: auto;
+    }
+    
+#Practicaweb h1{
+        position: relative;
+        text-align: center;
+        color: rgb(0, 0, 0);
+        max-width: 100%;
+        max-height: 100%; 
+        margin-left: auto;
+        margin-right: auto;
+        font-size:50px ;
+    }
+    
+#Practicaweb img{
+        width: 600px;
+        height: 400px;
+    }
+    
+#Practicaweb .practicaTweb {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);}
+
+#PracticaA  {
+            position: relative;
+            text-align: center;
+            color: white; 
+            float: left;
+            max-width: 90%;
+            max-height: 90%; 
+            margin-left:0px;
+            margin-right: auto;
+            font-size:40px ;
+        }
+        
+         #pdfA{
+            color: white; 
+            float: right;
+            margin-right: 500px;
+            margin-top: auto;
+        }
+        
+        #PracticaA h1{
+            position: relative;
+            text-align: center;
+            color: rgb(0, 0, 0);
+            max-width: 100%;
+            max-height: 100%; 
+            margin-left: auto;
+            margin-right: auto;
+            font-size:50px ;
+        }
+        
+        #PracticaA img{
+            width: 600px;
+            height: 400px;
+        }
+        
+        #PracticaA .practicaTA {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);}
